@@ -6,10 +6,14 @@
 
 ## 🚀 Технологии, с которыми я работаю
 ### Автоматизация тестирования:
-- **Java**: Selenium, RestAssured, JUnit5, TestNG,Allure,Gradle,Jenkins,Jira,Selenide и т.д
-- ![This is an image](/icons/Gradle.png)![This is an image](/icons/Intelij_IDEA.png)![This is an image](/icons/Selenide.png)![This is an image](/icons/Selenoid.png)![This is an image](/icons/JUnit5.png)![This is an image](/icons/Jenkins.png)![This is an image](/icons/Allure_Report.png)![This is an image](/icons/AllureTestOps.png)![This is an image](/icons/Telegram.png)![This is an image](/icons/Jira.png)</br></br>
+- Java Selenium, RestAssured, JUnit5, TestNG,Allure,Gradle,Jenkins,Jira,Selenide и т.д  
+![This is an image](/icons/Gradle.png)![This is an image](/icons/Intelij_IDEA.png)![This is an image](/icons/Selenide.png)![This is an image](/icons/Selenoid.png)![This is an image](/icons/JUnit5.png)![This is an image](/icons/Jenkins.png)![This is an image](/icons/Allure_Report.png)![This is an image](/icons/AllureTestOps.png)![This is an image](/icons/Telegram.png)![This is an image](/icons/Jira.png)</br></br>
 
 
+### Тестирование API:
+- Тестирование мобтльных приложений IOS,Android  
+- Визуальное тестирование с использованием Fiddler
+- Тестирование кроссбраузерной совместимости (Chrome, Firefox, Edge, Opera)
 
 ### Тестирование API:
 - REST API, Postman, Swagger, SoapUI
