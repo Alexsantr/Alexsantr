@@ -1,33 +1,49 @@
-## Hi there 👋
+# 👋 Привет! Я Александр
 
-## :computer: Используемый стек
+Я — **full stack qa engineer** с глубоким интересом к технологиям и постоянным желанием улучшать свои навыки. Моя работа заключается в создании качественных решений, автоматизации тестирования и обеспечении стабильности программного обеспечения.
 
-<p align="center">
-<img width="6%" title="IntelliJ IDEA" src="media/logo/Intelij_IDEA.svg">
-<img width="6%" title="Java" src="media/logo/Java.svg">
-<img width="6%" title="Selenide" src="media/logo/Selenide.svg">
-<img width="6%" title="Selenoid" src="media/logo/Selenoid.svg">
-<img width="6%" title="Allure Report" src="media/logo/Allure_Report.svg">
-<img width="5%" title="Allure TestOps" src="media/logo/AllureTestOps.svg">
-<img width="6%" title="Gradle" src="media/logo/Gradle.svg">
-<img width="6%" title="JUnit5" src="media/logo/JUnit5.svg">
-<img width="6%" title="GitHub" src="media/logo/GitHub.svg">
-<img width="6%" title="Jenkins" src="media/logo/Jenkins.svg">
-<img width="6%" title="Telegram" src="media/logo/Telegram.svg">
-<img width="5%" title="Jira" src="media/logo/Jira.svg">
-</p>
+---
 
-<!--
-**Alexsantr/Alexsantr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Технологии, с которыми я работаю
+### Автоматизация тестирования:
+- **Java**: Selenium, RestAssured, JUnit5, TestNG,Allure,Gradle,Jenkins,Jira,Selenide и т.д
+- ![This is an image](/icons/Gradle.png)![This is an image](/icons/Intelij_IDEA.png)![This is an image](/icons/Selenide.png)![This is an image](/icons/Selenoid.png)![This is an image](/icons/JUnit5.png)![This is an image](/icons/Jenkins.png)![This is an image](/icons/Allure_Report.png)![This is an image](/icons/AllureTestOps.png)![This is an image](/icons/Telegram.png)![This is an image](/icons/Jira.png)</br></br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Тестирование API:
+- REST API, Postman, Swagger, SoapUI
+
+### DevOps:
+- Docker, Jenkins, CI/CD, Git
+
+### Дополнительные навыки:
+- SQL: тестирование баз данных
+- Работа с JSON, XML
+
+---
+
+## 🌟 Чем я горжусь
+- Постоянное изучение новых технологий
+- Оптимизация тестовых процессов и сокращение времени на регрессионное тестирование
+- Автоматизация сложных сценариев тестирования для банковских систем
+
+---
+
+## 📈 Цели на будущее
+- Освоить новые инструменты для тестирования производительности и безопасности
+- Развивать собственные open-source проекты
+- Погрузиться с головой в автоматизацию 
+
+---
+
+## 📫 Как связаться со мной
+- **Email**: [Почта](mailto:kopenkin119@yandex.ru)
+- **Telegram**: [Телеграм]( https://t.me/@trek119)
+
+---
+
+## 💡 Немного обо мне
+- Люблю разрабатывать и тестировать сложные системы
+- Всегда готов к новым вызовам и сложным задачам
+- Увлекаюсь чтением технической литературы и улучшением процесса тестирования
